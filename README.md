@@ -1,7 +1,13 @@
+
+
 <h1 align="center">Hi 👋, I'm BuddyBoyVilla</h1>
 <h3 align="center">A passionate fullstack developer and FiveM modder.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddynotfound" alt="buddynotfound" /></a> </p>
+  
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ [![Discord Presence](https://lanyard.cnrad.dev/api/333941426721390592)](https://discord.com/users/333941426721390592)
+  
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddynotfound" alt="buddynotfound" /></a> </p>
 
 - 🔭 I’m currently working on [bbv.world](https://bbv.world)
 
