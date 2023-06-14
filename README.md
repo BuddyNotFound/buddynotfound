@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 👨‍💻 All of my projects are available at [https://buddynotfound.github.io/web](https://buddynotfound.github.io/web)
+- 👨‍💻 All of my projects are available at [bbv.world](http://bbv.world)
 
-- 📫 How to reach me **buddyscripts@gmail.com**
+- 📫 How to reach me **admin@bbv.world**
 
 -----
 
