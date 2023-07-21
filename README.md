@@ -9,7 +9,6 @@
 
 -----
  
- [![Discord Presence](https://lanyard.cnrad.dev/api/333941426721390592)](https://discord.com/users/333941426721390592)
 
 
 
@@ -42,7 +41,7 @@
 -----
 
 <h3 align="left">Support:</h3>
-><a href="https://ko-fi.com/bbvxworld"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buddynotfound" /></a></p><br><br>
+<a href="https://ko-fi.com/bbvxworld"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buddynotfound" /></a></p><br><br>
 
 
 -----
