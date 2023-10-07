@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm BuddyBoyVilla</h1>
-<h3 align="center">A passionate fullstack developer and FiveM Developer</h3>
+<h3 align="center">A passionate fullstack developer & FiveM Developer</h3>
 
 <p align="center">
   <img width="160" height="100" src="https://cdn.discordapp.com/attachments/870374454490988594/1118159764266958929/buddylogo.png">
