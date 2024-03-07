@@ -4,7 +4,7 @@
 <h3 align="center">A passionate fullstack & FiveM Developer</h3>
 
 <p align="center">
-  <img width="160" height="100" src="https://cdn.discordapp.com/attachments/870374454490988594/1118159764266958929/buddylogo.png">
+  ![a7528aee78133240cf0c7fb9488c3bf6b909cea5](https://github.com/BuddyNotFound/buddynotfound/assets/74051918/a70dacff-bca8-44c2-a02c-ab15c810b846)
 </p>
 
 -----
