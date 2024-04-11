@@ -10,9 +10,6 @@
   <a href="https://github.com/BuddyNotFound?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BuddyNotFound?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
   </a>
-  <a href="https://github.com/BuddyNotFound">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=BuddyNotFound&style=for-the-badge&color=lightgrey"/>
-  </a>
 </div>
 
 
