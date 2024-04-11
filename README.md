@@ -3,8 +3,12 @@
 <h1 align="center">Hi 👋, I'm BuddyBoyVilla</h1>
 <h3 align="center">A passionate fullstack & FiveM Developer</h3>
 
-<p align="center">
-  <img width="260" height="100" src="https://cdn.discordapp.com/attachments/1133534812704079964/1215433136729624616/a7528aee78133240cf0c7fb9488c3bf6b909cea5.png?ex=65fcbb51&is=65ea4651&hm=e9ca15b4dce91d455b5ce006d68611e46a06c7cae5b28c35e510cc84412962cf&">
+<a href="https://github.com/BuddyNotFound?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FBuddyNotFound"/></a>
+  <a href="https://github.com/BuddyNotFound?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BuddyNotFound?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/BuddyNotFound">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=BuddyNotFound&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
 -----
